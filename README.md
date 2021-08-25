@@ -1,3 +1,2 @@
-# FlameBalls
-Basic AR games 
-#Shooting games using fireballs to bundle of boxes 
+# Flame Balls
+An iOS "one-tap" shapes game.
